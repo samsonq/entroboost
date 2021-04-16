@@ -1,2 +1,2 @@
-# entboost
+# Entropy-Boost
 Entropy Gradient Boosting
